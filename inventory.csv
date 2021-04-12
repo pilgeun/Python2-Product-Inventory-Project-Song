@@ -1,0 +1,6 @@
+id,name,price,quantity,author/genre,year
+PROD001,The Rainbow Fish,12.99,30,Marcus Pfister,
+PROD011,The Hunt for Red October,11.99,8,Thriller,1990
+PROD101,Sesame Street,2.99,99,Jon Stone,
+PROD991,Fish,0.99,12,,
+PROD021,Python,19.99,1,Joel Murach,
